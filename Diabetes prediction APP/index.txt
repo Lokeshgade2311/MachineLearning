@@ -1,0 +1,1 @@
+in this folder the diabetes prediction web app using streamlit and pickle is developed
